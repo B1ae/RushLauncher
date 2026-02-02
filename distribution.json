@@ -3,8 +3,8 @@
   "rss": "",
   "servers": [
     {
-      "id": "my_server",
-      "name": "Rush Server",
+      "id": "Rush",
+      "name": ".Rush",
       "description": "Welcome to Rush Server",
       "icon": "https://helios-files.s3.amazonaws.com/iron_logo.png",
       "address": "localhost:25565",
@@ -18,4 +18,3 @@
     }
   ]
 }
-
