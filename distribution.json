@@ -4,9 +4,9 @@
   "servers": [
     {
       "id": "my_server",
-      "name": "Rush 서버",
-      "description": "서버 설명입니다.",
-      "icon": "https://raw.githubusercontent.com/아이디/레포이름/main/logo.png",
+      "name": "Rush Server",
+      "description": "Welcome to Rush Server",
+      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/common/assets/images/iron_logo.png",
       "address": "localhost:25565",
       "discord": {
         "shortId": "discord",
@@ -14,17 +14,7 @@
       },
       "mainServer": true,
       "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.20.1-47.2.0",
-          "name": "Forge 1.20.1",
-          "type": "Library",
-          "artifact": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar",
-            "size": 7254851
-          }
-        }
-      ]
+      "modules": []
     }
   ]
 }
