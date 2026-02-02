@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "https://github.com/dscalzi/HeliosLauncher/wiki",
   "discord": {
-    "clientId": "본인의_디스코드_ID_없으면_기존값", 
+    "clientId": "123456789012345678", 
     "smallImageKey": "seal_circle",
     "smallImageText": "Rush Launcher"
   },
@@ -10,7 +10,9 @@
     {
       "id": "rush-server",
       "name": "Rush Server",
-      "address": "localhost",
+      "address": "localhost:25565",
+      "hostname": "localhost",
+      "port": 25565,
       "minecraftVersion": "1.20.1",
       "version": "1.0.0",
       "mainServer": true,
