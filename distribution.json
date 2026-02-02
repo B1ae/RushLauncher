@@ -3,15 +3,11 @@
   "rss": "",
   "servers": [
     {
-      "id": "Rush",
-      "name": ".Rush",
-      "description": "Welcome to Rush Server",
-      "icon": "https://helios-files.s3.amazonaws.com/iron_logo.png",
+      "id": "RushServer",
+      "name": "Rush Server",
+      "description": "Welcome",
+      "icon": "", 
       "address": "localhost:25565",
-      "discord": {
-        "shortId": "discord",
-        "invite": ""
-      },
       "mainServer": true,
       "autoconnect": true,
       "modules": []
