@@ -1,6 +1,11 @@
 {
   "version": "1.0.0",
   "rss": "https://github.com/dscalzi/HeliosLauncher/wiki",
+  "discord": {
+    "clientId": "본인의_디스코드_ID_없으면_기존값", 
+    "smallImageKey": "seal_circle",
+    "smallImageText": "Rush Launcher"
+  },
   "servers": [
     {
       "id": "rush-server",
@@ -10,6 +15,11 @@
       "version": "1.0.0",
       "mainServer": true,
       "type": "Release",
+      "discord": {
+        "shortId": "Rush",
+        "largeImageKey": "rush_logo",
+        "largeImageText": "러쉬 서버에서 노는중!"
+      },
       "modules": []
     }
   ]
