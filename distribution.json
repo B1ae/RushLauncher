@@ -6,7 +6,7 @@
       "id": "my_server",
       "name": "Rush Server",
       "description": "Welcome to Rush Server",
-      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/common/assets/images/iron_logo.png",
+      "icon": "https://helios-files.s3.amazonaws.com/iron_logo.png",
       "address": "localhost:25565",
       "discord": {
         "shortId": "discord",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
