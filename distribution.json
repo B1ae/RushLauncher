@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "rss": "",
+  "rss": "https://github.com/dscalzi/HeliosLauncher/wiki",
   "servers": [
     {
-      "id": "RushServer",
+      "id": "rush-server",
       "name": "Rush Server",
-      "description": "Welcome",
-      "icon": "", 
-      "address": "localhost:25565",
+      "address": "localhost",
+      "minecraftVersion": "1.20.1",
+      "version": "1.0.0",
       "mainServer": true,
-      "autoconnect": true,
+      "type": "Release",
       "modules": []
     }
   ]
