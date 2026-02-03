@@ -15,7 +15,7 @@
           "id": "net.minecraftforge:forge:1.20.1-47.4.10",
           "name": "Minecraft Forge",
           "type": "forge",
-          "version": "47.4.10", 👈 // 이 줄이 반드시 있어야 합니다!
+          "version": "47.4.10",
           "artifact": {
             "size": 6078070,
             "hash": "66bfea9963bfa60d88bab6b2750e74a958392715",
@@ -36,3 +36,4 @@
     }
   ]
 }
+
