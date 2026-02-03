@@ -1,4 +1,5 @@
 {
+  "rss": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/news.xml",
   "servers": [
     {
       "id": "rush_server",
