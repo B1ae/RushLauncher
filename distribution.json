@@ -1,36 +1,28 @@
 {
+  "version": "1.0.0",
+  "rss": "https://github.com/dscalzi/HeliosLauncher/wiki",
+  "discord": {
+    "clientId": "123456789012345678", 
+    "smallImageKey": "seal_circle",
+    "smallImageText": "Rush Launcher"
+  },
   "servers": [
     {
-      "id": "rush_server",
+      "id": "rush-server",
       "name": "Rush Server",
-      "description": "🌸러쉬 서버에서 노는중!🌸",
-      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
       "address": "localhost:25565",
+      "hostname": "localhost",
+      "port": 25565,
       "minecraftVersion": "1.20.1",
       "version": "1.0.0",
       "mainServer": true,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.20.1-47.4.10",
-          "name": "Minecraft Forge",
-          "type": "forge",
-          "artifact": {
-            "size": 6078070,
-            "hash": "66bfea9963bfa60d88bab6b2750e74a958392715",
-            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/forge-1.20.1-47.4.10-installer.jar"
-          }
-        },
-        {
-          "id": "FarmersDelight",
-          "name": "Farmers Delight",
-          "type": "forge-mod",
-          "artifact": {
-            "size": 2978080,
-            "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
-            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/FarmersDelight-1.20.1-1.2.9.jar"
-          }
-        }
-      ]
+      "type": "Release",
+      "discord": {
+        "shortId": "Rush",
+        "largeImageKey": "rush_logo",
+        "largeImageText": "러쉬 서버에서 노는중!"
+      },
+      "modules": []
     }
   ]
 }
