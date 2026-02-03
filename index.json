@@ -10,14 +10,14 @@
       "version": "1.0.0",
       "mainServer": true,
       "modules": [
-        {
+      {
           "id": "forge-1.20.1",
           "name": "Minecraft Forge",
           "type": "forge",
           "artifact": {
             "size": 6078070,
             "hash": "66bfea9963bfa60d88bab6b2750e74a958392715",
-            "url": "https://github.com/B1ae/RushLauncher/raw/master/mods/forge-1.20.1-47.4.10-installer.jar"
+            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/forge-1.20.1-47.4.10-installer.jar"
           }
         },
         {
@@ -27,7 +27,7 @@
           "artifact": {
             "size": 2978080,
             "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
-            "url": "https://github.com/B1ae/RushLauncher/raw/master/mods/FarmersDelight-1.20.1-1.2.9.jar"
+            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/FarmersDelight-1.20.1-1.2.9.jar"
           }
         }
       ]
