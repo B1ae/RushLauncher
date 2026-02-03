@@ -1,4 +1,5 @@
 {
+  "rss": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/news.xml",
   "servers": [
     {
       "id": "rush_server",
@@ -21,7 +22,7 @@
           }
         },
         {
-          "id": "FarmersDelight",
+          "id": "vectorwing:FarmersDelight:1.20.1-1.2.9",
           "name": "Farmers Delight",
           "type": "forge-mod",
           "artifact": {
