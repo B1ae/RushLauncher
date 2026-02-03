@@ -4,7 +4,7 @@
       "id": "rush_server",
       "name": "Rush Server",
       "description": "🌸러쉬 서버에서 노는중!🌸",
-      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
+      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png?v=1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "version": "1.0.0",
