@@ -11,7 +11,6 @@
             "minecraftVersion": "1.20.1",
             "version": "1.0.0",
             "mainServer": true,
-            "modules": [
         "modules": [
         {
         "id": "net.minecraftforge:forge:1.20.1-47.4.10",
@@ -29,6 +28,7 @@
         }
     ]
 }
+
 
 
 
