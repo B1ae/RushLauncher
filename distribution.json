@@ -11,23 +11,20 @@
             "minecraftVersion": "1.20.1",
             "version": "1.0.0",
             "mainServer": true,
-        "modules": [
-        {
-        "id": "net.minecraftforge:forge:1.20.1-47.4.10",
-        "name": "Minecraft Forge",
+"modLoader": {
         "type": "forge",
-        "version": "47.4.10",
-        "artifact": {
-            "size": 0,
-            "hash": "",
-            "url": "" 
-        }
+        "version": "47.4.10"
+      },
+
+      "modules": []
     }
-]
+  ]
+}
             
         }
     ]
 }
+
 
 
 
