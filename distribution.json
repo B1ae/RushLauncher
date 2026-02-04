@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "rss": "https://helioslauncher.com/news",
+    "rss": "",
     "servers": [
         {
             "id": "rush_server",
@@ -27,5 +27,6 @@
         }
     ]
 }
+
 
 
