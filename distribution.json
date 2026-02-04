@@ -12,20 +12,20 @@
       "mainServer": true,
       "rss": "https://helioslauncher.com/news",
       "modules": [
-  {
-  "id": "forge-base",
-  "name": "Minecraft Forge (Manual)",
-  "type": "library",
-  "version": "47.4.10",
-  "artifact": {
-    "size": 0,
-    "hash": "",
-    "url": "" 
+{
+    "id": "net.minecraftforge:forge:1.20.1-47.4.10",
+    "name": "Minecraft Forge",
+    "type": "library",
+    "artifact": {
+        "size": 0,
+        "hash": "0",
+        "url": "https://invalid.url" 
     }
 }
       ]
     }
   ]
 }
+
 
 
