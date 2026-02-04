@@ -3,8 +3,8 @@
   "rss": "",
   "servers": [
     {
-      "id": "vanilla_server",
-      "name": "Vanilla Server",
+      "id": "rush_server",
+      "name": "Rush Server",
       "description": "🌸순정 바닐라 서버🌸",
       "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
       "address": "localhost:25565",
@@ -15,3 +15,4 @@
     }
   ]
 }
+
