@@ -13,7 +13,7 @@
       "mainServer": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.20.1-47.4.10",
+          "id": "net.minecraftforge_forge_1.20.1-47.4.10",
           "name": "Forge 로더",
           "type": "Forge",
           "version": "47.4.10",
@@ -26,8 +26,8 @@
           "required": { "value": true, "def": true }
         },
         {
-          "id": "net.minecraftforge:forge:1.20.1-47.4.10-json",
-          "name": "Forge 버전 매니페스트",
+          "id": "net.minecraftforge_forge_1.20.1-47.4.10-json",
+          "name": "Forge 실행 정보",
           "type": "VersionManifest",
           "artifact": {
             "size": 0,
