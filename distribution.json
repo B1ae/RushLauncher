@@ -12,7 +12,7 @@
             "version": "1.0.0",
             "mainServer": true,
 "modLoader": {
-        "type": "forge",
+        "id": "forge",
         "version": "47.4.10"
       },
 
@@ -20,6 +20,7 @@
     }
   ]
 }
+
 
 
 
