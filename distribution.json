@@ -1,31 +1,28 @@
 {
-  "version": "1.0.0",
-  "servers": [
-    {
-      "id": "rush_server",
-      "name": "Rush Server",
-      "description": "🌸러쉬 서버 테스트 중🌸",
-      "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
-      "version": "1.0.0",
-      "mainServer": true,
-      "rss": "https://helioslauncher.com/news",
-      "modules": [
-{
-    "id": "net.minecraftforge:forge:1.20.1-47.4.10",
-    "name": "Minecraft Forge",
-    "type": "library",
-    "artifact": {
-        "size": 0,
-        "hash": "0",
-        "url": "https://invalid.url" 
-    }
+    "version": "1.0.0",
+    "rss": "https://helioslauncher.com/news",
+    "servers": [
+        {
+            "id": "rush_server",
+            "name": "Rush Server",
+            "description": "🌸러쉬 서버 테스트 중🌸",
+            "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
+            "address": "localhost:25565",
+            "minecraftVersion": "1.20.1",
+            "version": "1.0.0",
+            "mainServer": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.20.1-47.4.10",
+                    "name": "Minecraft Forge",
+                    "type": "library",
+                    "artifact": {
+                        "size": 0,
+                        "hash": "0",
+                        "url": "https://invalid.url"
+                    }
+                }
+            ]
+        }
+    ]
 }
-      ]
-    }
-  ]
-}
-
-
-
