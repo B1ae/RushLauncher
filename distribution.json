@@ -4,15 +4,16 @@
     {
       "id": "rush_server",
       "name": "Rush Server",
-      "description": "🌸러쉬 서버에서 노는중🌸",
+      "description": "🌸러쉬 서버 테스트 중🌸",
       "icon": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/server-icon.png",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "version": "1.0.0",
       "mainServer": true,
+      "rss": "https://helioslauncher.com/news",
       "modules": [
         {
-          "id": "forge-1.20.1",
+          "id": "forge",
           "name": "Minecraft Forge",
           "type": "forge",
           "version": "47.4.10",
@@ -20,16 +21,6 @@
             "size": 6078070,
             "hash": "66bfea9963bfa60d88bab6b2750e74a958392715",
             "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/forge-1.20.1-47.4.10-installer.jar"
-          }
-        },
-        {
-          "id": "FarmersDelight",
-          "name": "Farmers Delight",
-          "type": "forge-mod",
-          "artifact": {
-            "size": 2978080,
-            "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
-            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/FarmersDelight-1.20.1-1.2.9.jar"
           }
         }
       ]
