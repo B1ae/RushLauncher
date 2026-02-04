@@ -15,7 +15,7 @@
   {
   "id": "forge-base",
   "name": "Minecraft Forge (Manual)",
-  "type": "library", 👈 // 'forge' 대신 'library'로 설정하여 런처의 자동 설치 로직을 피함
+  "type": "library",
   "version": "47.4.10",
   "artifact": {
     "size": 0,
@@ -27,4 +27,5 @@
     }
   ]
 }
+
 
