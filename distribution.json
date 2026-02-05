@@ -12,18 +12,19 @@
             "version": "1.0.0",
             "mainServer": true,
             "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.20.1-47.4.10",
-                    "name": "Minecraft Forge",
-                    "type": "forge",
-                    "version": "47.4.10",
-                    "artifact": {
-                        "size": 6078070,
-                        "hash": "66bfea9963bfa60d88bab6b2750e74a958392715",
-                        "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/mods/forge-1.20.1-47.4.10-installer.jar"
+            {
+            "id": "net.minecraftforge:forge:1.20.1-47.4.10",
+            "name": "Minecraft Forge",
+            "type": "forge",
+            "version": "47.4.10",
+            "artifact": {
+            "size": 32195, 
+            "hash": "2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020",
+            "url": "https://raw.githubusercontent.com/B1ae/RushLauncher/master/common/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
                     }
                 }
             ]
         }
     ]
 }
+
